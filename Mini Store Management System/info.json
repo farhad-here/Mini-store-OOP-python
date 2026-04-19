@@ -1,0 +1,16 @@
+[
+  {
+    "name": "ball",
+    "price": 2.0,
+    "stock": 2,
+    "user": "admin",
+    "date": "03/13/26 11:32"
+  },
+  {
+    "name": "book",
+    "price": 2.0,
+    "stock": 2,
+    "user": "admin",
+    "date": "03/13/26 11:32"
+  }
+]
