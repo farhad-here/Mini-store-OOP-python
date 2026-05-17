@@ -1,0 +1,22 @@
+[
+  {
+    "name": "hat",
+    "price": 12.0,
+    "stock": 4
+  },
+  {
+    "name": "bmw",
+    "price": 1.0,
+    "stock": 2
+  },
+  {
+    "name": "book",
+    "price": 1.0,
+    "stock": 2
+  },
+  {
+    "name": "pen",
+    "price": 1.3,
+    "stock": 2
+  }
+]
